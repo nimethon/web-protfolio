@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+.methon{
+    color: aqua;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img {
+    width:100%
+
+}
