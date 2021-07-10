@@ -11,7 +11,7 @@ p{ color: dimgray;}
 }
 .half-width{
     width: 40%;
-     float: left;
+    float: left;
     margin-left: 4%;
     margin-right: 3%;
     padding-left: 3%;
@@ -43,7 +43,9 @@ section{
    }
 .dream-area{
     background-image: url("images/dream-bg.png");
-          background-repeat: no-repeat;
+         background-repeat: no-repeat;
+         background-position: right;
+         
   }
   
 
