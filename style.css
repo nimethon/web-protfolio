@@ -7,7 +7,7 @@ h1{
 }
 p{ color: dimgray;}
 .methon{
-    color: aqua;
+    color: rgb(255, 115, 0);
 }
 .half-width{
     width: 40%;
@@ -48,12 +48,26 @@ section{
          
   }
   
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80% ;
+}
 
+.ex{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
 
-
-
-
-
+.word{
+    overflow: scroll ;
+    font-size: 28px;
+    
+}
+.lol{
+    font-size: 25px;
+}
 
 
 
